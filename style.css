@@ -9,3 +9,7 @@ img {
 button {
   background-color: lightpink;
 }
+
+p {
+  font-style: italic;
+}
